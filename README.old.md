@@ -1,2 +1,0 @@
-# techystar-master_react
- 
